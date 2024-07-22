@@ -61,6 +61,5 @@ At the end, the subscriber closes its TCP socket and terminates the
     communication with the server.
 
 OTHERS:
-    - I started the implementation from the seventh laboratory.
     - I disabled the buffering for stdout.
     - I disabled Nagle's algorithm.
